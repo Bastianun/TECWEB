@@ -1,0 +1,24 @@
+#user{
+  background-color: rgb(213, 226, 255);
+  display: grid;
+  row-gap: 8px;
+  width: 15%;
+  height: 300px;
+}
+
+input[type="button"]{
+  display: none;
+}
+
+#sval{
+  position: absolute;
+  background-color: rgb(213, 226, 255);
+  font-size: 26px;
+  padding: 10px;
+}
+
+#sval::before{
+  position: relative;
+  content: "aaaaa";
+  background-color: brown
+}
