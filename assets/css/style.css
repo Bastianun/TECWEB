@@ -1,0 +1,30 @@
+body{
+    font-size: 16px;
+     font-family: "Comic Sans MS"
+}
+
+div.imgp{
+    padding: 0;
+        display: flex;
+        flex-direction: column;
+    height: 400px;
+
+}
+
+div.imgp p{
+    height: min-content;
+    margin: 0;
+    padding: 0;
+}
+
+div.imgp img{
+    width: 100%;
+    height: 80%;
+}
+
+
+.navbar #navbarSupportedContent form{
+    width: 50%;
+
+}
+

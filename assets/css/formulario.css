@@ -1,0 +1,21 @@
+#container_form form .row h1{
+    font-size: 1.4rem;
+}
+
+
+
+#container_form form .row{
+    margin-bottom: 1rem;
+    
+}
+
+
+
+#container_form {
+    flex-wrap: wrap;
+}
+
+#container_form h1{
+    font-size: 1.5rem;
+    
+}
